@@ -1,0 +1,11 @@
+Ng Build commands:
+
+
+
+ng build --prod
+npm i -g angular-cli-ghpages 
+
+ng build --prod --output-path project --base-href "https://inagaraj.github.io/angular-demo/"
+ngh --dir=dist/angular-demo
+
+
