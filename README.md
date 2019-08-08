@@ -1,5 +1,5 @@
-# AngularDemo
-
+# AngularDemo 
+<a href="https://inagaraj.github.io/angular-demo/index.html">ng build demo</a> 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
 ## Development server
